@@ -1,0 +1,16 @@
+
+.facebookPublishLink{
+	padding-left:22px;
+	line-height:15px;
+	background-image: url(link-icon.gif);
+	background-repeat: no-repeat;
+}
+
+.facebookPublishLink a{
+	color:#3B5998;
+}
+
+.facebookPublishLink a:hover{
+	color:#ffffff;
+	background-color:#3B5998;
+}
